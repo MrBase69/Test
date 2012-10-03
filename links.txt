@@ -1,0 +1,2 @@
+http://technet.microsoft.com/en-us/library/hh509052.aspx
+http://dynamics-ax.blogspot.com/2011/08/microsoft-dynamics-ax-2012-dive-into_15.html
